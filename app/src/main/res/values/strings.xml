@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banco EY</string>
+    <string name="poupanca">Poupança</string>
+    <string name="saldo_disponivel">Saldo disponível</string>
+    <string name="transferencia">Transferência</string>
+    <string name="fatura">Fatura</string>
+    <string name="saldo">Saldo</string>
+</resources>
