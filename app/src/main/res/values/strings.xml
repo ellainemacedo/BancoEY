@@ -5,4 +5,10 @@
     <string name="transferencia">Transferência</string>
     <string name="fatura">Fatura</string>
     <string name="saldo">Saldo</string>
+    <string name="vencimento_fatura">Data de vencimento: 05/04/2021</string>
+    <string name="saldo_fatura">Saldo Parcial: 500,00</string>
+    <string name="pagar_fatura">Pagar fatura</string>
+    <string name="para_transferencia">Para:</string>
+    <string name="valor_transferencia">Valor:</string>
+    <string name="valor_total">Valor total</string>
 </resources>
